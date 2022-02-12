@@ -1,2 +1,2 @@
 # Learning-Processing
-gajo wi
+Just trying out processing
